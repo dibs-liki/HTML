@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Q7</title>
+<style>
+ {
+ .javascript
+{
+font-family:Arial;
+font-size:16px;
+color:blue;
+}
+.python
+{
+ font-family:"Arial";
+font-size:14px;
+color:red;
+}
+.c++
+{
+font-family:"Courier New";
+font-size:14px;
+color:green;
+}
+.java
+{
+font-family:Gerorgia;
+font-size:20px;
+color:yellow;
+}
+</style>
+</head>
+<body>
+<label>Select a Programming Language:</label>
+<select name="language"id="language">
+<option value="javascript">javascript</option>
+<option value="python">python</option>
+<option value="c++">c++</option>
+<option value="java">java</option>
+</select>
+</body>
+</html>
